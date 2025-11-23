@@ -5,6 +5,6 @@
             │ 192.168.0.1
             └───────┬────────┘
 ┌─────────────────┼──────────────────┬──────────────────┐\
- Laptop 1        Laptop 2         Smart TV             Phone
+ Laptop 1        Laptop 2         Smart TV             Phone\
  WiFi             WiFi             WiFi                 WiFi
 
