@@ -13,7 +13,7 @@ It includes both the **physical connections** (Ethernet) and **logical wireless 
 
 > Notes: For privacy, IP addresses are generalized.
 
-| device | Ip address | 
+| Device | Ip address | 
 |------------|-------------------|
 | Smartphone1 | 192.168.0.10 |
 | Smartphone2 | 192.168.0.12 |
