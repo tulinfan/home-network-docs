@@ -13,13 +13,14 @@ It includes both the **physical connections** (Ethernet) and **logical wireless 
 
 > Notes: For privacy, IP addresses are generalized.
 
-| Task / Step | Responsible Person | Approver |
-|------------|-------------------|----------|
-| Create VM in VMware Workstation | Student | Instructor |
-| Install Ubuntu Server | Student | Instructor |
-| Configure Web Testing Environment | Student | Instructor |
-| Security & network configuration | Student | Instructor |
-| Documentation & reporting | Student | Instructor |
+| device | Ip address | 
+|------------|-------------------|
+| Smartphone1 | 192.168.0.10 |
+| Smartphone2 | 192.168.0.12 |
+| Laptop1 | 192.168.0.14 |
+| Laptop2 | 192.168.0.15 |
+| Printer | 192.168.0.20 |
+|Router | 192.168.0.1 |
  
 ##  3. Network Devices and Services
 
