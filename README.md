@@ -31,8 +31,6 @@ It includes both the **physical connections** (Ethernet) and **logical wireless 
 - **Smart Devices**
   - Phones
   - Laptops
-  - iPads
-  - Smart TV
   - Printer
  
 ##  4. Device Configuration Summary
