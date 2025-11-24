@@ -13,9 +13,13 @@ It includes both the **physical connections** (Ethernet) and **logical wireless 
 
 > Notes: For privacy, IP addresses are generalized.
 
-The full IP address list is stored in a separate documentation file:
-
- [Click to view IP addressing file](IP-addressing.txt)
+| Task / Step | Responsible Person | Approver |
+|------------|-------------------|----------|
+| Create VM in VMware Workstation | Student | Instructor |
+| Install Ubuntu Server | Student | Instructor |
+| Configure Web Testing Environment | Student | Instructor |
+| Security & network configuration | Student | Instructor |
+| Documentation & reporting | Student | Instructor |
  
 ##  3. Network Devices and Services
 
