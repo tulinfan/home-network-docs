@@ -7,7 +7,7 @@ This document provides an overview of my home network, including physical and lo
 The diagram below shows how devices are connected in my home network.  
 It includes both the **physical connections** (Ethernet) and **logical wireless connections (Wi-Fi).**
 
-![Home Network Topology](https://raw.githubusercontent.com/Wenyue989/Test/refs/heads/main/home-network-topology.png)
+![Home Network Topology](https://github.com/tulinfan/home-network-docs/blob/main/1.PNG?raw=true)
 
 ##  2. IP Addressing Documentation
 
